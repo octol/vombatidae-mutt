@@ -10,8 +10,11 @@ Screenshots
 ![Screenshot 1](http://www.haeggblad.com/vombatidae/img/vombatidae-mutt1.png)
 ![Screenshot 2](http://www.haeggblad.com/vombatidae/img/vombatidae-mutt2.png)
 
-Web page: http://www.haeggblad.com/vombatidae
-Github: https://github.com/octol/vombatidae-mutt
+Download
+--------
+
+- Web page is at: http://www.haeggblad.com/vombatidae
+- Code is hosted at: https://github.com/octol/vombatidae-mutt
 
 Author: Jon Haggblad <jon@haeggblad.com>
 Initial version: Fri, 17 May 2013
